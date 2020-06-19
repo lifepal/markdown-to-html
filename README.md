@@ -16,6 +16,6 @@ The HTML result
 
 ## Example usage
 
-uses: lifepal/markdown-to-html@v1
+uses: lifepal/markdown-to-html@v1.1
 with:
   text: 'Hello there'
