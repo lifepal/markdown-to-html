@@ -1,0 +1,13 @@
+name: 'Markdown to HTML'
+description: 'Takes a Markdown input and gives an HTML output'
+inputs:
+  text:
+    description: 'Markdown text'
+    required: true
+    default: ''
+outputs:
+  html:
+    description: 'HTML output'
+runs:
+  using: 'node12'
+  main: 'index.js'

@@ -1,0 +1,4 @@
+root = true
+
+[*.{js,yml}]
+indent_size = 2
