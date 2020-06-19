@@ -1,5 +1,8 @@
 name: 'Markdown to HTML'
 description: 'Takes a Markdown input and gives an HTML output'
+branding:
+  icon: 'arrow-right'
+  color: 'blue'
 inputs:
   text:
     description: 'Markdown text'
